@@ -40,8 +40,21 @@ Explicação da importância, Comandos de criação e ativação em diferentes s
 
 10. Aplicações Web e Django Básico
 
-Visão geral sobre aplicações servidoras, Introdução ao Django: instalação, estrutura de projeto;
-
-Mini CRUD com models, views, templates
+Visão geral sobre aplicações servidoras, Introdução ao Django: instalação, estrutura de projeto, Mini CRUD com models, views, templates;
 
 11. Exercícios Práticos em Python
+
+<h1 class="titulo">Estrutura Python</h1>
+
+<style>
+  .titulo {
+    color: #1E90FF;
+    font-size: 32px;
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px #ccc;
+    padding: 10px;
+    border-bottom: 2px solid #1E90FF;
+  }
+</style>
+
