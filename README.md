@@ -157,9 +157,3 @@ ul {
 </body>
 </html>
 
-
-<script>
-  const estilo = document.createElement('style');
-  estilo.innerHTML = "body{background-color:#121212;color:#fff;}";
-  document.head.appendChild(estilo);
-</script>
