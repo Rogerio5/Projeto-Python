@@ -1,0 +1,3 @@
+Nome: Rogerio Augusto Sabino, Email: rogeriosabino1994@hotmail.com, CPF: 11223344556, RG: 123456789, Telefone: (14)998540215, Idade: 30 anos, Não pertence ao grupo de risco
+Nome: Ronaldo Augusto Sabino, Email: ronaldosabino@outlook.com, CPF: 88888888888888, RG: 9999999999999, Telefone: (14)999999999999, Idade: 44 anos, Não pertence ao grupo de risco
+123456789,Rogerio Augusto Sabino,rogeriosabino@outlook.com,987654321,(14)999999999999,11/06/1994,30,Não pertence ao grupo de risco
