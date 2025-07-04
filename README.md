@@ -1,67 +1,7 @@
 # Projeto-Python
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Estrutura Python</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f4f8fc;
-      color: #333;
-      line-height: 1.6;
-      padding: 30px;
-    }
-body {
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #121212;     /* fundo escuro */
-  color: #ffffff;                /* texto padrão branco */
-  line-height: 1.6;
-  padding: 30px;
-}
 
-.titulo {
-  color: #FFD700;                /* título amarelo */
-  font-size: 36px;
-  font-weight: bold;
-  text-align: center;
-  border-bottom: 3px solid #FFD700;
-  margin-bottom: 40px;
-  text-shadow: 1px 1px 2px #000;
-}
-
-h2 {
-  color: #FFD700;                /* subtítulo amarelo */
-  font-size: 28px;
-  margin-top: 30px;
-  border-left: 5px solid #FFD700;
-  padding-left: 10px;
-}
-
-p {
-  margin: 10px 0;
-  color: #ffffff;               /* texto branco */
-}
-
-ul {
-  margin-top: 5px;
-  margin-left: 20px;
-}
-
-.secao {
-  background-color: #1e1e1e;     /* fundo das seções mais claro que o fundo geral */
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(255,255,255,0.05);
-  margin-bottom: 25px;
-}
-
-  </style>
-</head>
-<body>
-
-  <h1 class="titulo">Estrutura Python</h1>
+<h1 class="titulo">Estrutura Python</h1>
 
   <div class="secao">
     <h2>1. Conceitos Básicos</h2>
